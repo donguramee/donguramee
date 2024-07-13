@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
-##Frontend
+### Frontend
 <p align="center">
     <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS5&logoColor=white"/></a>
@@ -15,11 +15,11 @@
 <img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/></a>
   <br>
-  ##Communication
+  ## Communication
    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/></a>&nbsp
   <br>
-  ##Design
+  ## Design
   <img src="https://img.shields.io/badge/Figma-E6B91E?style=flat-square&logo=figma&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=AdobeIllustrator&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white"/></a>&nbsp 
